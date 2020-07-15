@@ -1,4 +1,4 @@
-module github.com/go-bike-data-lib/postgres
+module github.com/bikedataproject/go-bike-data-lib/postgres
 
 go 1.13
 
