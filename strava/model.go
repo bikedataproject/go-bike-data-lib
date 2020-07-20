@@ -13,3 +13,8 @@ type RefreshMessage struct {
 	ExpiresIn    int    `json:"expires_in"`
 	RefreshToken string `json:"refresh_token"`
 }
+
+// WebhookValidationRequest : Body of the incoming GET request to verify the endpoint
+type WebhookValidationRequest struct {
+	HubChallenge string `json:"hub.challenge"`
+}
