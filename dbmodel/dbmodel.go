@@ -23,7 +23,7 @@ type User struct {
 type Contribution struct {
 	ContributionID string
 	UserAgent      string
-	Distance       float32
+	Distance       int
 	TimeStampStart time.Time
 	TimeStampStop  time.Time
 	Duration       int
