@@ -17,6 +17,7 @@ type User struct {
 	TokenCreationDate time.Time
 	ExpiresAt         int
 	ExpiresIn         int
+	IsHistoryFetched  bool
 }
 
 // Contribution : Struct to respresent a contribution object from the database
