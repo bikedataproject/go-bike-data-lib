@@ -1,5 +1,21 @@
 # go-bike-data-lib 
 
+<p align="center">
+  <a href="https://github.com/bikedataproject/go-bike-data-lib">
+    <img src="https://avatars3.githubusercontent.com/u/64870976?s=200&v=4" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Go Bike Data Library</h3>
+
+  <p align="center">
+    This repository is used as a Go library used by our other Go services.
+    <br />
+    <a href="https://github.com/bikedataproject/go-bike-data-lib/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/bikedataproject/go-bike-data-lib/issues">Request Feature</a>
+  </p>
+</p>
+
 ## About this repository
 
 This repository is used as a Go library for the other Go services. It contains multiple packages, which separate functionalities or data structures required for certain services.
